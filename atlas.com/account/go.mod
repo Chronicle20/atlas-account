@@ -3,7 +3,7 @@ module atlas-account
 go 1.21.6
 
 require (
-	github.com/Chronicle20/atlas-kafka v1.0.1
+	github.com/Chronicle20/atlas-kafka v1.0.4
 	github.com/Chronicle20/atlas-model v1.0.0
 	github.com/Chronicle20/atlas-rest v1.0.0
 	github.com/google/uuid v1.6.0
@@ -41,6 +41,6 @@ require (
 	go.uber.org/atomic v1.11.0 // indirect
 	golang.org/x/net v0.27.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.22.0 // indirect
+	golang.org/x/sys v0.24.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
 )
